@@ -1,0 +1,4 @@
+﻿  morefunction.cpp
+e:\svn项目备份\mp3\mp3\morefunction.cpp(47): warning C4101: “cmd”: 未引用的局部变量
+e:\svn项目备份\mp3\mp3\morefunction.cpp(48): warning C4101: “buff”: 未引用的局部变量
+  MP3.vcxproj -> E:\SVN项目备份\MP3\Debug\MP3.exe
